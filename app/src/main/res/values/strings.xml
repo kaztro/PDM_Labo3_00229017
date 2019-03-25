@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PDM_Labo03_00229017</string>
+    <string name="name">Name:</string>
+    <string name="send">send</string>
+    <string name="password">Password:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="gender">Gender:</string>
+    <string name="enter_your_age">Enter your age</string>
+    <string name="hint_ayuwoki_hee_hee_com">ayuwoki@hee-hee.com</string>
+    <string name="hint_age">Male</string>
+    <string name="hint_juanitoalcachofa1234">juanitoalcachofa1234</string>
+    <string name="hint_toka_puertas">Toka Puertas</string>
+    <string name="message">message</string>
+    <string name="btn_share">Share</string>
 </resources>
